@@ -62,6 +62,12 @@
 - [Customization](#customization)
 - [Deploy Yourself](#deploy-on-your-own-vercel-instance)
 
+# Surya
+
+[![Surya's github stats](https://github-readme-stats.surya00060.vercel.app//api?username=surya00060&count_private=true&show_icons=true&theme=dark&include_all_commits=true)]   
+[![Top Langs](https://github-readme-stats.surya00060.vercel.app/api/top-langs/?username=surya00060&layout=compact)]
+
+
 # GitHub Stats Card
 
 Copy paste this into your markdown content, and that's it. Simple!
